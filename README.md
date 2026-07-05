@@ -1,2 +1,1 @@
-# frequency-converter-cli
-CLI tool for converting frequency units (Hz, kHz, MHz, GHz)
+# Frequency Converter CLI\nConvert between frequency units like Hertz (Hz), kilohertz (kHz), megahertz (MHz), and gigahertz (GHz).\n\nUsage: `frequency-converter <value> <from-unit> <to-unit>`\nExample: `frequency-converter 1 kHz Hz`
